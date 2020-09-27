@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "174520419051",
+    "firebase_url": "https://pchouse-f8fc4.firebaseio.com",
+    "project_id": "pchouse-f8fc4",
+    "storage_bucket": "pchouse-f8fc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174520419051:android:3377e87423eaf383e3b4ae",
+        "android_client_info": {
+          "package_name": "com.example.pchouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174520419051-glmq2aer4sr4lj8gqicoo2g4dpbc6dt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pchouse",
+            "certificate_hash": "0236186e1ea99ed3d7eca02209bc17afa0cfdbbb"
+          }
+        },
+        {
+          "client_id": "174520419051-trtihfvmdf0hikmhia7tg2hegf8u1k90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0nNgrGKpg2t2dFPop2PGKq_SGz4TnBGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174520419051-trtihfvmdf0hikmhia7tg2hegf8u1k90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

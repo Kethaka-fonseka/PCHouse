@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PCHouse</string>
+    <string name="add">Add to cart</string>
+    <string name="checkout">checkout</string>
+    <string name="search">search</string>
+    <string name="qty">Please select the Qty:</string>
+    <string name="msg">Please select the Qty</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="Cart">Cart</string>
+    <string name="Edit">Edit</string>
+    <string name="Remove">Remove</string>
+    <string name="home">Home</string>
+    <string name="cat">Categories</string>
+    <string name="profile">Profile</string>
+    <string name="website">www.metropchouse.com</string>
+    <string name="title">METRO PC HOUSE</string>
+    <string name="search_msg">Search Here....</string>
+    <string name="reg_name">Enter Your Name..</string>
+    <string name="reg_mail">Enter Your E-mail Address..</string>
+    <string name="reg_phone">Enter Your Mobile No</string>
+    <string name="Reg_password">Enter A Password..</string>
+    <string name="Reg_con">Confrim Your Password</string>
+    <string name="signup">Aign Up</string>
+    <string name="sign_up">Sign up</string>
+    <string name="regHeader">Register</string>
+    <string name="sign_in">Sign IN</string>
+</resources>
